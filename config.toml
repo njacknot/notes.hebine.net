@@ -1,4 +1,4 @@
 baseURL = "https://notes.hebine.net/"
 languageCode = "en-us"
-title = "何必呢的笔记"
+title = "何必呢"
 theme = "hugo-book"
