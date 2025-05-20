@@ -1,5 +1,5 @@
 ---
-title: 何必呢的个人网站
+title: 果黑
 type: docs
 ---
 
@@ -8,7 +8,7 @@ type: docs
 {{< columns >}}
 ## 关于我
 
-你好！我是何必呢。这里是我记录生活、分享想法的个人空间。我热爱技术，喜欢探索新事物，也享受写作和分享的过程。
+你好！我是果黑。这里是我记录生活、分享想法的个人空间。我热爱技术，喜欢探索新事物，也享受写作和分享的过程。
 
 <--->
 
@@ -40,6 +40,6 @@ type: docs
 
 如果你有任何想法或建议，欢迎通过以下方式联系我：
 
-- Email: [blog@hebine.com]
+- Email: [blog@hguohei.net]
 - GitHub: [your-github]
 - 微信: [your-wechat]
